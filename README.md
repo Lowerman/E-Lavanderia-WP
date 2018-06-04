@@ -1,5 +1,5 @@
 ## Projeto E-Lavanderia WordPress
-Este projeto tem como finalidade criar Interatividade com o clientes de uma Lavanderia, dentro do WordPress, Integrado ao PayPal.
+Este projeto tem como finalidade criar Interatividade com o clientes de uma Lavanderia que faz o uso do CMS: WordPress.
 
 ## Recursos
  * CMS: WordPress (https://wordpress.org/)
