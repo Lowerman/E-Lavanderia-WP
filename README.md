@@ -17,7 +17,7 @@ Este projeto tem como finalidade criar Interatividade com o clientes de uma Lava
  ### Versões Futuras.
  * [ ].
  
- 
-![Optional Text](../master/src/imagens/1.png)
-![Optional Text](../master/src/imagens/2.png)
-![Optional Text](../master/src/imagens/3.png)
+ ## Imagens
+ <img width="953" height="468.5" src="https://raw.githubusercontent.com/Lowerman/E-Lavanderia-WP/master/src/imagens/1.PNG">
+ <img width="555" height="377" src="https://raw.githubusercontent.com/Lowerman/E-Lavanderia-WP/master/src/imagens/2.PNG">
+ <img width="444.5" height="464" src="https://raw.githubusercontent.com/Lowerman/E-Lavanderia-WP/master/src/imagens/3.PNG">
