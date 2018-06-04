@@ -1,6 +1,8 @@
 ## Projeto E-Lavanderia WordPress
 Este projeto tem como finalidade criar Interatividade com o clientes de uma Lavanderia que faz o uso do CMS: WordPress.
 
+``` Observação: Neste caso as informações do Pedido, não são recuperadas ou registradas no banco de dados. Entretando é possivel, utilizando a API do Paypal. ```
+
 ## Recursos
  * CMS: WordPress (https://wordpress.org/)
  * Tema: Vertikal (https://themeforest.net/item/vertikal-responsive-wordpress-theme/6780563)
